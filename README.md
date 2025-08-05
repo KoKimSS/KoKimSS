@@ -1,37 +1,67 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+## Backend Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+SeungSu's+GitHub!👋)](https://git.io/typing-svg)
- 
-<div align="left">
- 
-# Kim Seung Su 😁
+```java
+public class BackendDeveloper {
+    private final String name = "김승수";
+    private final String role = "Backend Developer";
+    
+    public String introduce() {
+        return "견고한 백엔드 시스템을 설계하는 개발자입니다.";
+    }
+}
+```
 
-![SeungSu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoKimSS&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoKimSS&layout=compact&theme=tokyonight)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seungsu8848)](https://solved.ac/seungsu8848/)
-# 💪Skills
-### BACK END
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-FF6C2C.svg?&style=for-the-badge&logo=JPA&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
+---
 
-### DEV OPS
-![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+## About Me
 
-### AWS
-![Aws](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
-![Ec2](https://img.shields.io/badge/amazonec2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white)
-![Rds](https://img.shields.io/badge/amazonrds-527FFF.svg?&style=for-the-badge&logo=amazonrds&logoColor=white)
+**WAS부터 직접 구현해본 경험**을 바탕으로 저수준부터 고수준까지 시스템을 이해합니다.  
+단순한 기능 구현을 넘어 **성능과 확장성을 고려한 아키텍처 설계**에 관심이 많습니다.
 
+---
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Intelli J](https://img.shields.io/badge/Intellijidea%20IDE-2C2255.svg?&style=for-the-badge&logo=intellijidea%20IDE&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+## Tech Stack
 
- 
-# :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://seungsu8848.tistory.com/)](https://seungsu8848.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:seungsu8848@ajou.ac.kr)
+**Language & Framework**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-4285F4?style=flat-square&logo=querydsl&logoColor=white)
+
+**Database & Middleware**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+**Infra & DevOps**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+---
+
+## Key Projects
+
+### [Custom WAS Server](https://github.com/KoKimSS/java-was)
+HTTP/1.1 스펙을 준수한 WAS 서버 직접 구현 (2024.06 ~ 2024.07)
+
+### [Cloud Storage Service](https://github.com/woowa-techcamp-2024/Team6-Drive)
+확장 가능한 클라우드 스토리지 서버 설계 및 개발 (2024.07 ~ 2024.08)
+
+### [Stock Trading System](https://github.com/StockTradingKSS/stock-trading-server)
+실시간 주식 자동매매 시스템 개발 (2025.05 ~ 진행중)
+
+---
+
+## Development Philosophy
+
+> **"코드는 동작하는 것만으로는 부족하다.  
+> 유지보수 가능하고 확장 가능한 구조여야 한다."**
+
+---
+
+## Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KoKimSS)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
