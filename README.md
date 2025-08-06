@@ -43,14 +43,22 @@ public class BackendDeveloper {
 
 ## Key Projects
 
-### [Custom WAS Server](https://github.com/KoKimSS/java-was)
+#### [Custom WAS Server](https://github.com/KoKimSS/java-was)
 HTTP/1.1 스펙을 준수한 WAS 서버 직접 구현 (2024.06 ~ 2024.07)
 
-### [Cloud Storage Service](https://github.com/woowa-techcamp-2024/Team6-Drive)
+#### [Cloud Storage Service](https://github.com/woowa-techcamp-2024/Team6-Drive)
 확장 가능한 클라우드 스토리지 서버 설계 및 개발 (2024.07 ~ 2024.08)
 
-### [Stock Trading System](https://github.com/StockTradingKSS/stock-trading-server)
+#### [Stock Trading System](https://github.com/StockTradingKSS/stock-trading-server)
 실시간 주식 자동매매 시스템 개발 (2025.05 ~ 진행중)
+
+---
+
+## Open Source
+#### Contributions
+
+- **[Apache Seata]** PR 템플릿에 CONTRIBUTING.md와 changes 디렉터리 하이퍼링크 추가 [[#7571](https://github.com/apache/incubator-seata/pull/7571)]
+  - 기여자가 가이드라인과 변경로그 위치에 쉽게 접근할 수 있도록 체크박스에 클릭 가능한 링크를 추가했습니다.
 
 ---
 
