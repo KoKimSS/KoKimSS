@@ -11,14 +11,11 @@ public class BackendDeveloper {
 }
 ```
 
----
-
 ## About Me
 
 **WAS부터 직접 구현해본 경험**을 바탕으로 저수준부터 고수준까지 시스템을 이해합니다.  
 단순한 기능 구현을 넘어 **성능과 확장성을 고려한 아키텍처 설계**에 관심이 많습니다.
 
----
 
 ## Tech Stack
 
@@ -39,7 +36,6 @@ public class BackendDeveloper {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
----
 
 ## Key Projects
 
@@ -52,7 +48,6 @@ HTTP/1.1 스펙을 준수한 WAS 서버 직접 구현 (2024.06 ~ 2024.07)
 #### [Stock Trading System](https://github.com/StockTradingKSS/stock-trading-server)
 실시간 주식 자동매매 시스템 개발 (2025.05 ~ 진행중)
 
----
 
 ## Open Source
 #### Contributions
@@ -60,13 +55,11 @@ HTTP/1.1 스펙을 준수한 WAS 서버 직접 구현 (2024.06 ~ 2024.07)
 - **[Apache Seata]** PR 템플릿에 CONTRIBUTING.md와 changes 디렉터리 하이퍼링크 추가 [[#7571](https://github.com/apache/incubator-seata/pull/7571)]
   - 기여자가 가이드라인과 변경로그 위치에 쉽게 접근할 수 있도록 체크박스에 클릭 가능한 링크를 추가했습니다.
 
----
 
 ## Development Philosophy
 
 > **"백문이 불여일타. 말뿐이 아닌 코드도 보여주자 !"**
 
----
 
 ## Contact
 
