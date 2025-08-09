@@ -47,7 +47,7 @@ public class BackendDeveloper {
 HTTP/1.1 스펙을 준수한 WAS 서버 직접 구현 (2024.06 ~ 2024.07)
 
 #### [Cloud Storage Service](https://github.com/woowa-techcamp-2024/Team6-Drive)
-확장 가능한 클라우드 스토리지 서버 설계 및 개발 (2024.07 ~ 2024.08)
+비동기 I/O 기반 클라우드 스토리지 서버 설계 및 개발 (2024.07 ~ 2024.08)
 
 #### [Stock Trading System](https://github.com/StockTradingKSS/stock-trading-server)
 실시간 주식 자동매매 시스템 개발 (2025.05 ~ 진행중)
