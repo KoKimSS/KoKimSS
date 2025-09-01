@@ -54,7 +54,6 @@ HTTP/1.1 스펙을 준수한 WAS 서버 직접 구현 (2024.06 ~ 2024.07)
 
 - **[Apache Seata]** PR 템플릿에 CONTRIBUTING.md와 changes 디렉터리 하이퍼링크 추가 [[#7571](https://github.com/apache/incubator-seata/pull/7571)]
   - 기여자가 가이드라인과 변경로그 위치에 쉽게 접근할 수 있도록 체크박스에 클릭 가능한 링크를 추가했습니다.
-
 - **[Redis Lettuce]** JSON 명령어에 String 오버로드 메서드를 추가하여 성능 최적화 [[#3394](https://github.com/redis/lettuce/pull/3394)]
   - String ↔ JsonValue 변환 오버헤드를 제거하고 String → byte[] 직접 변환으로 성능을 개선했습니다.
 
